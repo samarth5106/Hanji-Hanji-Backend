@@ -1,0 +1,28 @@
+{
+  "name": "hanji-hanji-backend",
+  "version": "1.0.0",
+  "description": "Starting Backend ACTUALLY",
+  "keywords": [
+    "Hanji-Hanji",
+    "Maharani"
+  ],
+  "homepage": "https://github.com/samarth5106/Hanji-Hanji-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/samarth5106/Hanji-Hanji-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarth5106/Hanji-Hanji-Backend.git"
+  },
+  "license": "ISC",
+  "author": "Samearth",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.9.9"
+  }
+}
