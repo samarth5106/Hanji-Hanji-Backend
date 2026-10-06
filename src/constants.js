@@ -1,1 +1,2 @@
-export const DB_NAME="HanjiHanjiDB";
+const DB_NAME="HanjiHanjiDB";
+export {DB_NAME};
